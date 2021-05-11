@@ -11,7 +11,7 @@ Issue: https://github.com/kseniia-tester/newrepo/issues/1#issue-886565772
 
 В процессе тестирования использовались следующие артефакты:
 
-Тест-кейс: https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=867579259
+ Тест-кейс: https://github.com/kseniia-tester/newrepo/blob/master/test-case.md 
 
 
 ## В качестве тестовых данных использовались данные данные были взяты из задания: 
